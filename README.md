@@ -12,7 +12,6 @@ Error Handling: Implementation of proper error messages of invalid account numbe
 Installation and Setup :  
 1.Clone the repository  
 https://github.com/rashmi824/Programming_Assignment_Dialog.git  
-cd programming-assignment
 
 2.Install the necessary dependencies  
 npm install
